@@ -521,7 +521,7 @@ x = "Día de la Semana",
 y = "Cantidad de Viajes") +
 theme_minimal()
 
-![customer vs subs 2.png](Caso%20de%20estudio%20Cyclist%202019%20ae13c39c1d684b1ca0dbe64d8b0353aa/customer_vs_subs_2.png)
+![Gráfico de Clientes Ocasionales vs Miembros Anuales](customer_vs_subs_2.png)
 
 #Crear la columna month
 trim_2019 <- trim_2019 %>%
@@ -588,7 +588,7 @@ y = "Cantidad de Viajes") +
 theme_minimal() +
 theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-![88ef08e2-e2f5-4a67-afd3-29b32d211fe3.png](Caso%20de%20estudio%20Cyclist%202019%20ae13c39c1d684b1ca0dbe64d8b0353aa/88ef08e2-e2f5-4a67-afd3-29b32d211fe3.png)
+![Visualización de la Cantidad de Viajes por Mes y Tipo de Usuario](88ef08e2-e2f5-4a67-afd3-29b32d211fe3.png)
 
 #Filtrar los datos para obtener solo a los clientes ocasionales
 casual_customers <- trim_2019 %>%
@@ -625,7 +625,7 @@ x = "Sexo",
 y = "Cantidad de Viajes") +
 theme_minimal()
 
-![1a84b11d-79d3-4430-a2c7-61848bcac38c.png](Caso%20de%20estudio%20Cyclist%202019%20ae13c39c1d684b1ca0dbe64d8b0353aa/1a84b11d-79d3-4430-a2c7-61848bcac38c.png)
+![Visualización del Uso por Sexo](1a84b11d-79d3-4430-a2c7-61848bcac38c.png)
 
 # Fase “Actuar”
 
