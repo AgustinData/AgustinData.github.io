@@ -486,7 +486,7 @@ x = "Día de la Semana",
 y = "Cantidad de Viajes") +
 theme_minimal()
 
-![cantidad viajes x dof.png](Caso%20de%20estudio%20Cyclist%202019%20ae13c39c1d684b1ca0dbe64d8b0353aa/cantidad_viajes_x_dof.png)
+![Gráfico de Cantidad de Viajes por Día de la Semana](cantidad_viajes_x_dof.png)
 
 #Calcular la cantidad de cada tipo de usuario
 user_counts <- trim_2019 %>%
