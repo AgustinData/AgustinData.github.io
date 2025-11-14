@@ -1,21 +1,30 @@
-# Portafolio de Proyectos de Agustín
+# 🚀 Portafolio de Proyectos de Agustín
 
-Este repositorio contiene dos proyectos principales en las áreas de análisis de datos y ciberseguridad. Cada proyecto está organizado en su propia carpeta y contiene todos los archivos y documentación relevantes.
+Bienvenido/a a mi portafolio digital, una colección de proyectos que demuestran mis habilidades prácticas en **Ciberseguridad** y **Análisis de Datos**.
 
-## Proyectos
+---
 
-### 1. Análisis de Datos de Viajes - Proyecto 1
-- **Descripción**: Análisis de datos de viajes para identificar patrones de uso y tendencias en el comportamiento de los usuarios.
-- **Carpeta del Proyecto**: [Analisis_Datos_Proyecto1](./Analisis_Datos_Proyecto1)
-- **Archivo Principal**: El análisis completo se encuentra en el archivo `index.md`, que incluye todas las visualizaciones y descripciones relevantes.
-- **Archivos Adicionales**:
-  - Imágenes utilizadas en el análisis, como `cantidad_viajes_x_dof.png` y `customer_vs_subs_2.png`, están referenciadas en el archivo principal.
+## 🛡️ Proyectos de Ciberseguridad (Enfoque Principal)
 
-### 2. Proyecto de Ciberseguridad - Análisis de Acceso
-- **Descripción**: Investigación y análisis de un incidente de seguridad. Incluye la revisión de registros de eventos y un directorio de empleados para identificar vulnerabilidades y recomendaciones para mejorar la seguridad de acceso.
-- **Carpeta del Proyecto**: [Ciberseguridad_Proyecto2](./Ciberseguridad_Proyecto2)
-- **Archivos Importantes**:
-  - **Registro_Eventos.xlsx**: Contiene los datos del registro de eventos y el directorio de empleados.
-  - **Notas_y_Recomendaciones.pdf**: Documento con observaciones y recomendaciones para mejorar los controles de acceso y evitar futuros incidentes de seguridad.
+Este proyecto es mi trabajo más reciente e importante. Demuestra capacidades en explotación de vulnerabilidades, análisis de sistemas y escalada de privilegios.
 
-Cada carpeta contiene un archivo `README.md` adicional que detalla la estructura de cada proyecto y describe sus componentes. Puedes acceder a estos archivos para obtener una descripción más completa de cada análisis y sus resultados.
+| Proyecto | Habilidades Clave | Archivo Principal |
+| :--- | :--- | :--- |
+| **Práctica de Pentesting** | Escalada de Privilegios, Análisis de Sistemas Linux, VPN. | [Ver Informe Completo](Ciberseguridad/Pentesting_Practica/Practica_Pentesting.md) |
+
+---
+
+## 📈 Proyectos de Análisis de Datos
+
+Este proyecto muestra mi dominio en el procesamiento, análisis y visualización de grandes conjuntos de datos para la toma de decisiones.
+
+| Proyecto | Habilidades Clave | Archivo Principal |
+| :--- | :--- | :--- |
+| **Análisis de Datos de Viajes** | Análisis de Tendencias, SQL, Visualización (Matplotlib/Seaborn), Limpieza de Datos. | [Ver Análisis Completo](Analisis_Datos/Proyecto_Viajes/index.md) |
+
+---
+
+### 💡 Nota para el Reclutador
+
+* **Recomendación:** Sugiero comenzar por el informe de **Práctica de Pentesting**, ya que representa mi experiencia más actualizada.
+* **Detalles:** Cada carpeta de proyecto (`/Pentesting_Practica` y `/Proyecto_Viajes`) contiene un `README.md` adicional con una descripción más detallada de sus objetivos y resultados.
